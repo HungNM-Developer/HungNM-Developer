@@ -30,7 +30,7 @@ I'm a software engineer/community advocate in Vietnam, HCM. I spend most time wo
 - 🖼 I'm also learning design skill on Figma and Photoshop
 - ✊ Visit ours blazing community at [fb.com/gdsc.hsu](https://www.facebook.com/gdsc.hsu) Google Developer Student Clubs
 - 👨🏻‍💻 I’m looking to collaborate on open source projects
-- 🔗 For work [CV](https://github.com/HungNM-Developer/HungNM-Developer/blob/main/my-cv/cv.pdf)
+- 🔗 For work [CV](https://github.com/HungNM-Developer/HungNM-Developer/blob/main/cv/my-cv.pdf)
 - 🏆 Certifications & Honour are located at [here](https://github.com/HungNM-Developer/HungNM-Developer/tree/main/certifications-and-honour)
 
 <div>
